@@ -1,0 +1,6 @@
+CHANGES WITH v1.8
++went live at Wed Sep 12 14:30
++added changelog
++specified kilobytes on $movieSize, $tvSize, and $musicSize
++changed all freespace variables to use available disk space in kilobytes instead of percentage used
++changed $secondaryThreshold, now is set to $movieSize or $tvSize, whichever is larger
